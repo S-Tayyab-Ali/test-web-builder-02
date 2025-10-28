@@ -1,10 +1,9 @@
 "use client"
-import { useState } from "react";
 
-export default function Home() {
+export default function Testing() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div>Hello World</div>
+      <div>This is the testing page</div>
     </main>
   );
 }
